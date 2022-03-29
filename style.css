@@ -1,5 +1,15 @@
+body {
+    margin: ;
+    min-width: 250px;
+  }
 * {box-sizing: border-box}
 
+.main {
+    background-color: antiquewhite;
+}
+* p  {
+    position: relative;
+}
 .container {
   width: 100%;
   background-color: #ddd;
@@ -13,41 +23,45 @@
 }
 
 .html {
-    width: 90%; 
+    width: 95%; 
     background-color: #04AA6D;
 }
 
 .css {
-    width: 80%; 
+    width: 95%; 
     background-color: #2196F3;
 }
 
 .javaScript {
-    width: 65%; 
+    width: 50%; 
     background-color: #f44336;
 }
 .php {
-    width: 60%; 
+    width: 50%; 
     background-color: #808080;
 }
 .java {
-    width: 80%; 
+    width: 50%; 
     background-color: #2196F3;
 }
-.web development {
+.web_Development {
     width: 80%; 
-    background-color: #2196F3;
+    background-color: #1a2c176c;
 }
 
-.C# {
-    width: 80%; 
+.C_sharp {
+    width: 50%; 
     background-color: #2196F3;
 }
-.Python 3 {
-    width: 80%; 
+.python_3 {
+    width: 50%; 
     background-color: #f44336;
 }
 .jQuery {
-    width: 80%; 
+    width: 50%; 
+    background-color: #101ff0;
+}
+.worldPress {
+    width: 100%; 
     background-color: #26b40a;
 }
